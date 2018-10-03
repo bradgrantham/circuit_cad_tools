@@ -5,7 +5,7 @@ Here's a handful of tools for easing the production of designs and PCBs (using K
 
 coalese_kicad_bom.py - take the output of the BOM button in KiCAD eeschema and output a BOM with unique parts combined.
 
-kicad_to_digikey_bom.py - take the output of the BOM button in KiCAD eeschemagenerate a DigiKey BOM (probably needing massaging before input to DigiKey)
+kicad_to_digikey_bom.py - take the output of the BOM button in KiCAD eeschema and generate a DigiKey BOM (probably needing massaging before input to DigiKey)
 
 make_kicad4_component.py - Make a KiCAD component from a somewhat esoteric input format with pins and pin direction
 
